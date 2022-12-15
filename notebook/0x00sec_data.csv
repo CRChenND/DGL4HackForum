@@ -1,0 +1,205 @@
+Topic,Thread,Tactic,Technique
+XORCry - a simple python ransomware,/t/xorcry-a-simple-python-ransomware/31148/2,Impact,Data Encrypted for Impact
+Python and Malware: Writing a simple wiper malware,/t/python-and-malware-writing-a-simple-wiper-malware/31652,Privilege Escalation,Abuse Elevation Control Mechanism
+Writing a simple rootkit for linux,/t/writing-a-simple-rootkit-for-linux/29034,Defense Evasion,Rootkit
+Awesome malware development resources,/t/awesome-malware-development-resources/29020,NA,NA
+Reviving DotNetToJScript to bypass AVs,/t/reviving-dotnettojscript-to-bypass-avs/30230,Defense Evasion,Obfuscated Files or Information
+Basic ransomware guide,/t/basic-ransomware-guide/28345,Credential Access,Brute Force
+[GoLang] Executing fileless scripts,/t/golang-executing-fileless-scripts/27794,Execution,Native API
+Windows Defender Runtime Detecting CreateRemoteThread,/t/windows-defender-runtime-detecting-createremotethread/28786,Defense Evasion,Indirect Command Execution
+Bypassing Antivirus Userland hooks with direct system calls in x64 bit with syswow64,/t/bypassing-antivirus-userland-hooks-with-direct-system-calls-in-x64-bit-with-syswow64/27998,Defense Evasion,Obfuscated Files or Information
+Help to unpack DLL?,/t/help-to-unpack-dll/27716,NA,NA
+Dynamically extracting the encryption key from a simple ransomware,/t/dynamically-extracting-the-encryption-key-from-a-simple-ransomware/28379,Defense Evasion,Deobfuscate/Decode Files or Information
+How to strengthen the code cave infection of aarch64 elf shared libraries?,/t/how-to-strengthen-the-code-cave-infection-of-aarch64-elf-shared-libraries/28314,Defense Evasion,Deobfuscate/Decode Files or Information
+"Malware Development (looking for a mentor, resources)",/t/malware-development-looking-for-a-mentor-resources/27302,Resource Development,Obtain Capabilities
+Abnormal .data section size leads to AV detection,/t/abnormal-data-section-size-leads-to-av-detection/27016,Defense Evasion,Obfuscated Files or Information
+How to get the output from a reflected loaded dll via anonymous pipes?,/t/how-to-get-the-output-from-a-reflected-loaded-dll-via-anonymous-pipes/26469,NA,NA
+macOS Material - Following up on my post a few months ago looking for macOS internals/reversing/malware reference,/t/macos-material-following-up-on-my-post-a-few-months-ago-looking-for-macos-internals-reversing-malware-reference/26230,NA,NA
+My antivirus evasion journey,/t/my-antivirus-evasion-journey/25744,Defense Evasion,Obfuscated Files or Information
+Antivirus runtime bypass,/t/antivirus-runtime-bypass/25574,Defense Evasion,Obfuscated Files or Information
+Best language for write malware,/t/best-language-for-write-malware/25514,NA,NA
+"Hello Friends, Been a While. Anyone have some guidance on macOS Malware Analysis?",/t/hello-friends-been-a-while-anyone-have-some-guidance-on-macos-malware-analysis/24700,NA,NA
+Process Injection: Remote Thread Injection or CreateRemoteThread,/t/process-injection-remote-thread-injection-or-createremotethread/24399,Defense Evasion,Process Injection
+Receive emails from a keylogger without hardcoding smtp credentials?,/t/receive-emails-from-a-keylogger-without-hardcoding-smtp-credentials/23458,Credential Access,Input Capture
+Process Injection: APC Injection,/t/process-injection-apc-injection/24608,Defense Evasion,Process Injection
+Creating a botnet in C plus plus,/t/creating-a-botnet-in-c-plus-plus/23530,Resource Development,Compromise Infrastructure
+Coqui - A keylogger that activates for only banking-related sites,/t/coqui-a-keylogger-that-activates-for-only-banking-related-sites/22818,Credential Access,Input Capture
+ELF Injector Patching Issues,/t/elf-injector-patching-issues/22714,NA,NA
+Delphi for Malware,/t/delphi-for-malware/22923,NA,NA
+Utilizing Discord as a Possible Attack Vector,/t/utilizing-discord-as-a-possible-attack-vector/22609,Credential Access,Brute Force
+Docker Worm in Python,/t/docker-worm-in-python/23268,Execution,Deploy Container
+Doubt malware anti-forensics,/t/doubt-malware-anti-forensics/23062,NA,NA
+"ELF binaries are intimidating, Any tips?",/t/elf-binaries-are-intimidating-any-tips/22478,NA,NA
+Zero2Auto - CruLoader,/t/zero2auto-cruloader/22420,Defense Evasion,Process Injection
+Master of RATs - How to create your own Tracker,/t/master-of-rats-how-to-create-your-own-tracker/20848,Command and Control,Remote Access Software
+Fishing for Malware,/t/fishing-for-malware/20111,NA,NA
+[Zero2Auto] – Initial Stagers - From one Email to a Trojan,/t/zero2auto-initial-stagers-from-one-email-to-a-trojan/21722,Defense Evasion,Obfuscated Files or Information
+[Quickie] Zero2Auto Malware Course Homework,/t/quickie-zero2auto-malware-course-homework/21616,Defense Evasion,Deobfuscate/Decode Files or Information
+The Art Of Malware - Bringing the dead back to life,/t/the-art-of-malware-bringing-the-dead-back-to-life/19599,Execution,Command and Scripting Interpreter
+"Personal Tale and the Road to Malware Development, Resources",/t/personal-tale-and-the-road-to-malware-development-resources/20369,Resource Development,Develop Capabilities
+[Malware Challenges] AnalyzeMe No1,/t/malware-challenges-analyzeme-no1/20894,NA,NA
+LARRYCHATTER - PoC HAMMERTOSS - C2 over Twitter,/t/larrychatter-poc-hammertoss-c2-over-twitter/20645,Resource Development,Develop Capabilities
+Excel | Primi passi,/t/excel-primi-passi/20458,NA,NA
+Open source windows keylogger,/t/open-source-windows-keylogger/19237,Credential Access,Input Capture
+Analyzing Modern Malware Techniques - Part 4,/t/analyzing-modern-malware-techniques-part-4/19289,Defense Evasion,Obfuscated Files or Information
+Captain : Userland API monitor for threat hunting,/t/captain-userland-api-monitor-for-threat-hunting/19037,Defense Evasion,Process Injection
+Analyzing Modern Malware Techniques - Part 3,/t/analyzing-modern-malware-techniques-part-3/18943,Privilege Escalation,Process Injection
+Analyzing Modern Malware Techniques - Part 2,/t/analyzing-modern-malware-techniques-part-2/18765,Execution,Command and Scripting Interpreter
+Analyzing Modern Malware Techniques - Part 1,/t/analyzing-modern-malware-techniques-part-1/18663,Execution,Command and Scripting Interpreter
+Analyzing Modern Malware Techniques - Part 1,/t/analyzing-modern-malware-techniques-part-1/18663,Defense Evasion,Modify Registry
+wsManager | opensource Webshell Manager,/t/wsmanager-opensource-webshell-manager/17105,Persistenace,Server Software Component
+A Curious Case of Malwarebytes,/t/a-curious-case-of-malwarebytes/13746,NA,NA
+Malware writing,/t/malware-writing/13429,NA,NA
+How to become an APT,/t/how-to-become-an-apt/13558,Command and Control,Remote Access Software
+Doubt infect ELF,/t/doubt-infect-elf/13605,NA,NA
+Indicators of Packers,/t/indicators-of-packers/12984,NA,NA
+Malicious DLL execution using Apple’s APSDaemon.exe signed binary,/t/malicious-dll-execution-using-apples-apsdaemon-exe-signed-binary/13409,Defense Evasion,System Binary Proxy Execution
+Defeating Userland Hooks (ft. Bitdefender),/t/defeating-userland-hooks-ft-bitdefender/12496,Defense Evasion,Rootkit
+"Malware writing - Python Malware, part 3: Stealing credentials and cookies",/t/malware-writing-python-malware-part-3-stealing-credentials-and-cookies/12099,Credential Access,OS Credential Dumping
+"Malware writing - Python malware, part 2: Keylogging with ctypes and SetWindowsHookExA",/t/malware-writing-python-malware-part-2-keylogging-with-ctypes-and-setwindowshookexa/11858,Credential Access,Input Capture
+Python Windows Keylogger,/t/python-windows-keylogger/11939,Credential Access,Input Capture
+"Malware writing - Python malware, part 1",/t/malware-writing-python-malware-part-1/11700,Credential Access,Input Capture
+Successful spreading and operating of botnets,/t/successful-spreading-and-operating-of-botnets/11952,Resource Development,Acquire Infrastructure
+Ransomware Development V3,/t/ransomware-development-v3/10793,Impact,Data Encrypted for Impact
+Ransomware Development,/t/ransomware-development/2510,Resource Development,Obtain Capabilities
+"Bypassing Crowdstrike Falcon detection, from phishing email to reverse shell",/t/bypassing-crowdstrike-falcon-detection-from-phishing-email-to-reverse-shell/10802,Initial Access,Phishing
+"Bypassing Crowdstrike Falcon detection, from phishing email to reverse shell",/t/bypassing-crowdstrike-falcon-detection-from-phishing-email-to-reverse-shell/10802,Defense Evasion,Traffic Signaling
+Blackcat Screen Capture,/t/blackcat-screen-capture/10337,Collection,Screen Capture
+Blackcat Keylogger,/t/blackcat-keylogger/10307,Credential Access,Input Capture
+Anti-forensic and File-less Malware,/t/anti-forensic-and-file-less-malware/10008,Persistence,Event Triggered Execution
+Malware collecting,/t/malware-collecting/9421,NA,NA
+New AV Bypass techniques,/t/new-av-bypass-techniques/9608,Defense Evasion,Indirect Command Execution
+Anyone want more Malware?,/t/anyone-want-more-malware/9371,NA,NA
+Reflective Dll Injection - Any Way to check If a process is already injected?,/t/reflective-dll-injection-any-way-to-check-if-a-process-is-already-injected/8980,Privilege Escalation,Process Injection
+Super-Stealthy Droppers,/t/super-stealthy-droppers/3715,Defense Evasion,Reflective Code Loading
+Clientside Exploitation - Tricks of the Trade 0x01 - Sharpshooter + SquibblyTwo,/t/clientside-exploitation-tricks-of-the-trade-0x01-sharpshooter-squibblytwo/8178,Defense Evasion,Exploitation for Defense Evasion
+Run the Trap! How to Setup your own Honeypot to collect Malware samples,/t/run-the-trap-how-to-setup-your-own-honeypot-to-collect-malware-samples/7445,NA,NA
+Kernel Mode Rootkits: File Deletion Protection,/t/kernel-mode-rootkits-file-deletion-protection/7616,Defense Evasion,Rootkit
+Malware Books (too outdated to use),/t/malware-books-too-outdated-to-use/7590,NA,NA
+The Malicious Park is Open!,/t/the-malicious-park-is-open/7492,NA,NA
+Clientside Exploitation in 2018 - How Pentesting Has Changed,/t/clientside-exploitation-in-2018-how-pentesting-has-changed/7356,Execution,Windows Management Instrumentation
+Help: FUD virus,/t/help-fud-virus/6348,Defense Evasion,Abuse Elevation Control Mechanism
+Malware Sources,/t/malware-sources/6341,NA,NA
+Mirai Botnet Source Code,/t/mirai-botnet-source-code/1212,Impact,Network Denial of Service
+Nestor10’s Malware Analysis 101 - Anatomy of a Trojan Part 1/?,/t/nestor10s-malware-analysis-101-anatomy-of-a-trojan-part-1/6223,Defense Evasion,Masquerading
+Rewriting LibC functions in malwares,/t/rewriting-libc-functions-in-malwares/6004,NA,NA
+Userland API Monitoring and Code Injection Detection,/t/userland-api-monitoring-and-code-injection-detection/5565,Execution,Windows Management Instrumentation
+Linux.Cephei: a Nim virus,/t/linux-cephei-a-nim-virus/3498,NA,NA
+Tutorial: Creating Yara Signatures for Malware Detection,/t/tutorial-creating-yara-signatures-for-malware-detection/5453,NA,NA
+Execute malware by opening steganographic image,/t/execute-malware-by-opening-steganographic-image/5564,Command and Control,Data Obfuscation
+Android Malware - Start the app at boot and get kernel Version 0x01,/t/android-malware-start-the-app-at-boot-and-get-kernel-version-0x01/786,Privilege Escalation,Abuse Elevation Control Mechanism
+Malware Decompiling and Unpacking (Loda Keylogger),/t/malware-decompiling-and-unpacking-loda-keylogger/4896,Credential Access,Input Capture
+[ANALYSIS | UNPACKING] Firestorm - Self-extracting Archive,/t/analysis-unpacking-firestorm-self-extracting-archive/4882,Defense Evasion,Obfuscated Files or Information
+Internet Chemotherapy,/t/internet-chemotherapy/4664,NA,NA
+Help to unpack malware (enigma)?,/t/help-to-unpack-malware-enigma/1871,NA,NA
+IBI Crypter. A JIT Crypter PoC,/t/ibi-crypter-a-jit-crypter-poc/1373,NA,NA
+[Links] Probably worth reading,/t/links-probably-worth-reading/916,NA,NA
+Reflective DLL Injection,/t/reflective-dll-injection/3080,Defense Evasion,Reflective Code Loading
+IoT Malware Droppers (Mirai and Hajime),/t/iot-malware-droppers-mirai-and-hajime/1966,Credential Access,Brute Force
+How to get a Super Stelfy Shell (that AV doesn’t pick up),/t/how-to-get-a-super-stelfy-shell-that-av-doesnt-pick-up/1860,Execution,Command and Scripting Interpreter
+User Mode Rootkits: IAT and Inline Hooking,/t/user-mode-rootkits-iat-and-inline-hooking/1108,Defense Evasion,Rootkit
+Introduction to the Android Malware Series - 0x00,/t/introduction-to-the-android-malware-series-0x00/770,Persistence,Compromise Client Software Binary
+BadRabbit Ransomware,/t/badrabbit-ransomware/4046,Impact,Data Encrypted for Impact
+BadRabbit Ransomware,/t/badrabbit-ransomware/4046,Lateral Movement,Lateral Tool Transfer
+Do you wanna write some malware?,/t/do-you-wanna-write-some-malware/1812,Defense Evasion,Reflective Code Loading
+Packers - Executable Compression and Data Obfuscation,/t/packers-executable-compression-and-data-obfuscation/847,Defense Evasion,Obfuscated Files or Information
+Android Remote Administration Tool: Argus - RAT [C#],/t/android-remote-administration-tool-argus-rat-c/825,Command and Control,Remote Access Software
+Malware Source Code,/t/malware-source-code/58,NA,NA
+How ransomware work’s and GonnaCry linux ransomware,/t/how-ransomware-works-and-gonnacry-linux-ransomware/4594,NA,NA
+Linux Keylogger and Notification Chains,/t/linux-keylogger-and-notification-chains/4566,Credential Access,Input Capture
+PE File Infection,/t/pe-file-infection/401,Defense Evasion,Process Injection
+PE File Infection Part II,/t/pe-file-infection-part-ii/4135,Defense Evasion,Process Injection
+ELFun File Injector,/t/elfun-file-injector/410,Defense Evasion,Process Injection
+[Proxmox] How to make a Virtual lab,/t/proxmox-how-to-make-a-virtual-lab/1601,NA,NA
+Kernel RootKits. Getting your hands dirty,/t/kernel-rootkits-getting-your-hands-dirty/1485,Defense Evasion,Rootkit
+An Introductory Guide Into Malware Analysis,/t/an-introductory-guide-into-malware-analysis/2056,NA,NA
+Staying anonymous when hiring server(hosting),/t/staying-anonymous-when-hiring-server-hosting/2149,NA,NA
+"Assembly/Malware Analysis - Platform, Architecture, Resources",/t/assembly-malware-analysis-platform-architecture-resources/2143,NA,NA
+Windows Keylogging - Part I,/t/windows-keylogging-part-i/99,Credential Access,Input Capture
+[C#] A Simple Runtime Crypter,/t/c-a-simple-runtime-crypter/519,Defense Evasion,Obfuscated Files or Information
+Examining the Morris Worm Source Code - Malware Series - 0x02,/t/examining-the-morris-worm-source-code-malware-series-0x02/685,NA,NA
+Plug In To Win - Powershell Keylogger [Part 2/3],/t/plug-in-to-win-powershell-keylogger-part-2-3/1158,Credential Access,Input Capture
+Plug In To Win - DuckyScript [Part 1/3],/t/plug-in-to-win-duckyscript-part-1-3/1154,Credential Access,Input Capture
+Linux Rootkit - HORSEPILL,/t/linux-rootkit-horsepill/1100,Defense Evasion,Rootkit
+Windows Keylogging - Part II,/t/windows-keylogging-part-ii/1070,Credential Access,Input Capture
+Understanding a Win32 Virus: Code Analysis,/t/understanding-a-win32-virus-code-analysis/1069,Defense Evasion,Process Injection
+Understanding a Win32 Virus: Background Material,/t/understanding-a-win32-virus-background-material/1043,Defense Evasion,Process Injection
+A Simple Demonstration on Malware Analysis,/t/a-simple-demonstration-on-malware-analysis/994,NA,NA
+Android Malware: A Tumor called Marla 0x02 [C#],/t/android-malware-a-tumor-called-marla-0x02-c/859,NA,NA
+PolyCrypt. Experiments on Self-Modifying Programs,/t/polycrypt-experiments-on-self-modifying-programs/857,Defense Evasion,Obfuscated Files or Information
+Android Malware : A tumor called Marla 0x02,/t/android-malware-a-tumor-called-marla-0x02/851,Initial Access,Phishing
+Android Malware - Start the App at Boot and get Kernel Version 0x01 [C#],/t/android-malware-start-the-app-at-boot-and-get-kernel-version-0x01-c/793,NA,NA
+How to build a persistence Service for Android?,/t/how-to-build-a-persistence-service-for-android/758,Command and Control,Remote Access Software
+Extracting a Payload,/t/extracting-a-payload/667,NA,NA
+Introduction to the Malware Series - 0x01,/t/introduction-to-the-malware-series-0x01/624,NA,NA
+A simple Linux Crypter,/t/a-simple-linux-crypter/537,Defense Evasion,Obfuscated Files or Information
+"AnnoyWare-What it is, and how to stop it",/t/annoyware-what-it-is-and-how-to-stop-it/252,NA,NA
+What Type of file extension would be more common in linux based malware?,/t/what-type-of-file-extension-would-be-more-common-in-linux-based-malware/26068,NA,NA
+Heap Exploitation | Playing with chunks!,/t/heap-exploitation-playing-with-chunks/2055,NA,NA
+Relation between RE & exploit development,/t/relation-between-re-exploit-development/24811,NA,NA
+The S2-061 Struts remote code execution vulnerability (CVE-2020-17530) in the WILD,/t/the-s2-061-struts-remote-code-execution-vulnerability-cve-2020-17530-in-the-wild/24324,Execution,Exploitation for Client Execution
+Windows Defender AV Zero Day Vulnerability,/t/windows-defender-av-zero-day-vulnerability/22258,Privilege Escalation,Exploitation for Privilege Escalation
+Regex for Easy 0days,/t/regex-for-easy-0days/23016,NA,NA
+CVExplained - CVE-2007-2447,/t/cvexplained-cve-2007-2447/22748,Execution,Exploitation for Client Execution
+Exploit Development - The Magic in Hacking,/t/exploit-development-the-magic-in-hacking/20349,NA,NA
+Null Terminated Programming 101 - x64,/t/null-terminated-programming-101-x64/20398,NA,NA
+OverTheWire Narnia challenges 0-4 Writeups (Binary exploitation basics with explanations),/t/overthewire-narnia-challenges-0-4-writeups-binary-exploitation-basics-with-explanations/18362,Defense Evasion,Abuse Elevation Control Mechanism
+Punishing code with magic numbers with ROP and ret2libc on an x86_64,/t/punishing-code-with-magic-numbers-with-rop-and-ret2libc-on-an-x86-64/19751,NA,NA
+Buffer Overflow to Run Root Shell,/t/buffer-overflow-to-run-root-shell/18629,Initial Access,Exploit Public-Facing Application
+Exploit Reporting Guidelines,/t/exploit-reporting-guidelines/17034,NA,NA
+Anti-virus Exploitation: Local Privilege Escalation in K7 Security (CVE-2019-16897),/t/anti-virus-exploitation-local-privilege-escalation-in-k7-security-cve-2019-16897/17655,Privilege Escalation,Exploitation for Privilege Escalation
+Crashing Hackarmy Botnet,/t/crashing-hackarmy-botnet/16738,NA,NA
+[VulnHub] SmashTheTux - Chapter 0x00 - Basic Buffer Overflow & Ret2libc,/t/vulnhub-smashthetux-chapter-0x00-basic-buffer-overflow-ret2libc/14850,Initial Access,Exploit Public-Facing Application
+Return Oriented Programming on ARM (32-bit),/t/return-oriented-programming-on-arm-32-bit/14183,NA,NA
+"autoBOF: a Journey into Automation, Exploit Development, and Buffer Overflows",/t/autobof-a-journey-into-automation-exploit-development-and-buffer-overflows/13415,Initial Access,Exploit Public-Facing Application
+Using URI to pop shells via the Discord Client,/t/using-uri-to-pop-shells-via-the-discord-client/11673,Execution,Exploitation for Client Execution
+Kernel Exploitation | Dereferencing a NULL pointer!,/t/kernel-exploitation-dereferencing-a-null-pointer/3850,Execution,Exploitation for Client Execution
+Point of no C3 | Linux Kernel Exploitation - Part 0,/t/point-of-no-c3-linux-kernel-exploitation-part-0/11585,NA,NA
+Exploiting Techniques \000 - ret2libc,/t/exploiting-techniques-000-ret2libc/1833,Execution,Exploitation for Client Execution
+Libssh any vulnerable server (CVE-2018-10933)?,/t/libssh-any-vulnerable-server-cve-2018-10933/9124,Credential Access,Exploitation for Credential Access
+How can I learn to form strings in shellcodes?,/t/how-can-i-learn-to-form-strings-in-shellcodes/8992,Resource Development,Develop Capabilities
+Bypass Data Execution Protection (DEP),/t/bypass-data-execution-protection-dep/6988,Privilege Escalation,Process Injection
+Favorite Vuln Sites,/t/favorite-vuln-sites/6965,NA,NA
+Fuzzing projects with american fuzzy lop (AFL),/t/fuzzing-projects-with-american-fuzzy-lop-afl/6498,NA,NA
+Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR),/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452,Privilege Escalation,Process Injection
+0x00ctf Writeup | babyheap & left!,/t/0x00ctf-writeup-babyheap-left/5314,NA,NA
+Getting cozy with exploit development,/t/getting-cozy-with-exploit-development/5311,NA,NA
+[Pwnable] Heap of Secrets,/t/pwnable-heap-of-secrets/5121,NA,NA
+Exploit Mitigation Techniques - Stack Canaries,/t/exploit-mitigation-techniques-stack-canaries/5085,Privilege Escalation,Process Injection
+Heap Safari - Thread Local Caching,/t/heap-safari-thread-local-caching/5054,Execution,Exploitation for Client Execution
+Null Byte Poisoning - The Magic Byte,/t/null-byte-poisoning-the-magic-byte/3874,Defense Evasion,Exploitation for Defense Evasion
+Buffer Overflow Exploitation,/t/buffer-overflow-exploitation/3846,Execution,Exploitation for Client Execution
+An Introduction to Printer Exploitation,/t/an-introduction-to-printer-exploitation/3565,Credential Access,Brute Force
+Weaponized Exploit Writing in GO FUSION0,/t/weaponized-exploit-writing-in-go-fusion0/3184,Execution,Exploitation for Client Execution
+[Talk] Breaking the x86 ISA,/t/talk-breaking-the-x86-isa/3451,Command and Control,Protocol Tunneling
+Analysis/exploitation of @nitayart’s Broadpwn bug (CVE-2017-9417),/t/analysis-exploitation-of-nitayarts-broadpwn-bug-cve-2017-9417/2932,Execution,Exploitation for Client Execution
+Heap Exploitation ~ Abusing Use-After-Free,/t/heap-exploitation-abusing-use-after-free/3580,Execution,Exploitation for Client Execution
+Exploit Mitigation Techniques - Data Execution Prevention (DEP),/t/exploit-mitigation-techniques-data-execution-prevention-dep/4634,Privilege Escalation,Process Injection
+Hiding with a Linux Rootkit,/t/hiding-with-a-linux-rootkit/4532,Defense Evasion,Rootkit
+"SROP | Signals, you say?",/t/srop-signals-you-say/2890,Privilege Escalation,Exploitation for Privilege Escalation
+64-bit ROP | You rule ‘em all!,/t/64-bit-rop-you-rule-em-all/1937,NA,NA
+Buffer Overflow Exploitation - Get a Segmentation Fault (core dumped),/t/buffer-overflow-exploitation-get-a-segmentation-fault-core-dumped/3863,Execution,Exploitation for Client Execution
+[Pwnable] Dream Diary,/t/pwnable-dream-diary/3832,NA,NA
+Heap Exploitation - Fastbin Attack,/t/heap-exploitation-fastbin-attack/3627,Execution,Exploitation for Client Execution
+The Blueborne Vuln,/t/the-blueborne-vuln/3575,Command and Control,Ingress Tool Transfer
+[Pwnable] Stacky Jumpy,/t/pwnable-stacky-jumpy/3302,Execution,Exploitation for Client Execution
+[Pwnable] Do You Even Leak Bruh,/t/pwnable-do-you-even-leak-bruh/3004,Execution,Exploitation for Client Execution
+[Pwnable] EchoFlow Me Once Shame On You,/t/pwnable-echoflow-me-once-shame-on-you/3288,Execution,Exploitation for Client Execution
+Modern Binary Exploitation,/t/modern-binary-exploitation/3320,Command and Control,Data Obfuscation
+The x86 processor fuzzer,/t/the-x86-processor-fuzzer/3077,NA,NA
+picoCTF Write-up ~ Bypassing ASLR via Format String Bug,/t/picoctf-write-up-bypassing-aslr-via-format-string-bug/1920,Execution,Exploitation for Client Execution
+[Pwnable] ROP Me Like You Do,/t/pwnable-rop-me-like-you-do/2687,Execution,Exploitation for Client Execution
+ARM Exploitation Series,/t/arm-exploitation-series/2101,Execution,Exploitation for Client Execution
+Clandestine EDC Gadgets,/t/clandestine-edc-gadgets/2098,Reconnaissance,Active Scanning
+Linux Shellcoding (Part 1.0),/t/linux-shellcoding-part-1-0/289,NA,NA
+Vortex0 in windows C,/t/vortex0-in-windows-c-aka-a-sample-of-hell/1805,NA,NA
+Pwning/Reversing Challenges,/t/pwning-reversing-challenges/1728,Execution,Exploitation for Client Execution
+Material for Learning Exploit Development,/t/material-for-learning-exploit-development/1727,NA,NA
+Remote Exploit. Shellcode without Sockets,/t/remote-exploit-shellcode-without-sockets/1440,Execution,Command and Scripting Interpreter
+Blindly Hacking Remote Services,/t/blindly-hacking-remote-services/1501,Execution,Exploitation for Client Execution
+Compromising a(n OLD) Linux desktop using… 6502 processor opcodes on the NES?!,/t/compromising-a-n-old-linux-desktop-using-6502-processor-opcodes-on-the-nes/1282,Privilege Escalation,Exploitation for Privilege Escalation
+Securitytube.net Exploit Research/Development MegaPrimer,/t/securitytube-net-exploit-research-development-megaprimer/974,Execution,Exploitation for Client Execution
+"[Link] Notes on Security, Separation of Concerns and CVE-2016-1238 (Full Disclosure)",/t/link-notes-on-security-separation-of-concerns-and-cve-2016-1238-full-disclosure/871,Privilege Escalation,Exploitation for Privilege Escalation
+Over The Wire: Narnia2 - Smashing $EIP for fun and free,/t/over-the-wire-narnia2-smashing-eip-for-fun-and-free/704,Execution,Exploitation for Client Execution
+Exploit Development Fun,/t/exploit-development-fun/462,NA,NA
+Re-building a vsFTPd backdoor exploit in Python,/t/re-building-a-vsftpd-backdoor-exploit-in-python/159,Credential Access,Exploitation for Credential Access
